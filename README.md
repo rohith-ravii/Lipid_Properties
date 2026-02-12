@@ -1,6 +1,6 @@
-# Analysis of Lipid Bilayer Properties from Molecular Dynamics Simulations
+# Lipid Properties Calculator for All Atomic Simulations
 
-This project contains a Jupyter Notebook (`lipid_properties.ipynb`) for analyzing molecular dynamics (MD) simulations of lipid bilayers. The notebook provides tools to calculate and visualize two key properties: bilayer thickness and deuterium order parameter (S_CD).
+This project contains a Jupyter Notebook (`lipid_properties.ipynb`) designed to analyze atomic simulations of lipid bilayers. The notebook provides tools to calculate and visualize key biophysical properties, including bilayer thickness and deuterium order parameter (S_CD).
 
 ## Project Overview
 
